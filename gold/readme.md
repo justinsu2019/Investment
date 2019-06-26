@@ -10,10 +10,13 @@
 #### risk trend 
 #### risk cases
 
-### US dollars index trend
+### US dollars 
+### index trend
+### US interest rate
 ##### OIL price?
 
 ### world political situation
+#### cold war between China & US
 
 ### economic environment
 #### **stock market**
